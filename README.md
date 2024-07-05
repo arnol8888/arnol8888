@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello there! My name is Arnol Degollado 👋</h1>
-  <img src="https://i.ibb.co/hK88JS5/Pc2-2.webp">
+  <img src="https://i.ibb.co/zf9HX9H/Pc2.webp">
 </div>
 
 
