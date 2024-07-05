@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hello there! My name is Arnol Degollado 👋</h1>
+  <img src="https://i.ibb.co/hK88JS5/Pc2-2.webp">
+</div>
 
-<!--
-**arnol8888/arnol8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🖥 Computer systems engineer
+- 🚀 I share the code of the things I'm learning on my [Linkedin](https://www.linkedin.com/in/arnol-degollado-b732a3268/)
+- 📫 How to reach me: ingarnoldegollado@gmail.com
+<br>
